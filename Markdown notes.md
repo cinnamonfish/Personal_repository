@@ -1,3 +1,12 @@
+## This is a table of contents
+
+-[Basic skills](#head2)
+
+-[Intermediate skills](#head3)
+
+-[Advances skills](#head4)
+
+### <span id="head2">Basic Skills</span>
 
 ### This is a table
 | Syntax      | Description | Test Text     |
