@@ -1,4 +1,4 @@
-### Some personal notes by Tianyun Yu @CinnamonFish
+### Some personal notes by @CinnamonFish
 
 
 
