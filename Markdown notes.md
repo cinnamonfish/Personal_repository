@@ -32,3 +32,11 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     ` here is some code `
 
     Add as many paragraphs as you like.
+### This is a list
+<dl>
+  <dt>First Term</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Second Term</dt>
+  <dd>This is one definition of the second term. </dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
