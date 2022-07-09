@@ -1,6 +1,13 @@
 ## Some personal notes by @CinnamonFish
 
 
+[![Build Status](https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4)](https://space.bilibili.com/11804187)
+[![Build Status](https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4)](https://space.bilibili.com/11804187)
+
+
+<details>
+<summary> This is a summary</summary>
+
 
 -  Hi, I’m @CinnamonFish
 -  I’m interested in ...
