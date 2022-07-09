@@ -1,4 +1,4 @@
-## Some personal notes by @CinnamonFish
+# Github Profile of @CinnamonFish
 
 
 [![Build Status](https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4)](https://space.bilibili.com/11804187)
