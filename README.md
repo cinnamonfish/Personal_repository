@@ -2,7 +2,7 @@
 
 
 [![Build Status](https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4)](https://space.bilibili.com/11804187)
-[![Build Status](https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4)](https://space.bilibili.com/11804187)
+[![Build Status](https://img.shields.io/badge/知乎-@快乐的大睡猫-blue)](https://www.zhihu.com/people/yu-tian-yun-11-63)
 
 
 <details>
