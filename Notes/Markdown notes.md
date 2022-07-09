@@ -27,6 +27,20 @@ sum(ew1201$ew1201.PVAL|>na.omit()<0.05)
 sum(a$ew1201.PVAL|>na.omit()<0.05)
 fwrite(a, "../../220628/housekeeper_gene_ew1201.tsv", sep="\t")
 ```
+
+### Some shell
+```Shell
+for gene in $(cut -f 1 $genelistdir/mapk1_string_protein_annotations.tsv)
+do grep -w "$gene" $heatdir/ew12.PubMed.1.txt
+done > $genelistdir/mapk1.txt
+```
+#### Some shell with R highlight
+```R
+for gene in $(cut -f 1 $genelistdir/mapk1_string_protein_annotations.tsv)
+do grep -w "$gene" $heatdir/ew12.PubMed.1.txt
+done > $genelistdir/mapk1.txt
+```
+
 ### This is a footnote
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
