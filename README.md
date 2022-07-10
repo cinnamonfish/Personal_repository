@@ -1,11 +1,14 @@
-# Github Profile of @CinnamonFish
-
+  <h1> Github Profile of @CinnamonFish</h1>
+ </p>
+ <p>
 <p align="center">
+
   <a href="https://space.bilibili.com/11804187"><img src="https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4"></a>
   <a href="https://www.zhihu.com/people/yu-tian-yun-11-63"><img src="https://img.shields.io/badge/知乎-@快乐的大睡猫-blue"></a>
   <br><br>  Why can't these two formats comply with each other?
 </p>
 
+---
 <details>
 <summary> ✨See detailed information of @CinnamonFish below✨ </summary>
 
