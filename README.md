@@ -6,14 +6,14 @@
 
 
 <details>
-<summary> This is a summary</summary>
-
+<summary> ✨See detailed information of @CinnamonFish below✨ </summary>
 
 -  Hi, I’m @CinnamonFish
 -  I’m interested in ...
 -  I’m currently learning ...
 -  I’m looking to collaborate on ...
 -  How to reach me ...
+<\details>
 
 <!---
 CinnamonFish/CinnamonFish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
