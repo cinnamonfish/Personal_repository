@@ -85,6 +85,13 @@ K(xi, xj) = Σ(xi*xj)
 泰勒展开之后表示所有n维度上的两个观测的信息差异，用点积(dot product)的形式表示
 	
 		
+### 最大似然估计与EM算法
+如果一个分布的MLE是比较难求的，那么可以用两步来得到它的估计：
+1. 第一步求期望（E步），把讨厌参数去掉
+2. 第二步求极大值（M步）
+重复这两步就可以得到MLE的近似解。
+
+		
 		
 参考资料：5种机器学习的分类器算法 - 知乎 (zhihu.com)
 		youtube - StatQuest Machine Learning - YouTube
