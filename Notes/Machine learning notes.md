@@ -93,5 +93,9 @@ K(xi, xj) = Σ(xi*xj)
 
 		
 		
-参考资料：5种机器学习的分类器算法 - 知乎 (zhihu.com)
-		youtube - StatQuest Machine Learning - YouTube
+		
+		
+参考资料：
+- 5种机器学习的分类器算法 - 知乎 (zhihu.com)
+- youtube - StatQuest Machine Learning - YouTube
+- 茆诗松等. 概率论与数理统计教程（第二版）习题与解答. 高等教育出版社(2012)
