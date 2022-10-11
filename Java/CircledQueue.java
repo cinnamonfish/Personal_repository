@@ -46,9 +46,16 @@ public class CircledQueue<Item> {
 
     public Item removeM(int M) {
         if(isEmpty()) throw new IndexOutOfBoundsException();
-        Vertex<Item> midvar = last.next;
-        for(int i = 1; i < M; i++) midvar = midvar.next;
-        Item item = midvar.item;
+        int k = 0;
+        if(size()==1 && k>0) throw new IndexOutOfBoundsException("There's only one item left");
+        
+        Vertex<Item> midvar = last.next;   // first
+        for(int i = 2; i < M; i++) midvar = midvar.next;    // change index
+        Item item = midvar.next.item;
+        midvar.next = midvar.next.next;      // remove midvar
+        N--;
+        last = midvar;         // update the circlequeue's start position
+        k++;
         return item;
     }
 
@@ -69,6 +76,11 @@ public class CircledQueue<Item> {
         System.out.println("N: "+cQueue.N);
         System.out.println("last: "+cQueue.last.item);
         System.out.println("first: "+cQueue.last.next.item);
-        
+        int M = Integer.parseInt(StdIn.readString());
+        while(!cQueue.isEmpty()) System.out.println(cQueue.removeM(M));
+        /* for(int i=0; i<7; i++) {
+            System.out.println(cQueue.removeM(M));
+            System.out.println("size: "+cQueue.N);
+        } */
     }
 }
